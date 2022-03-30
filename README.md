@@ -57,7 +57,15 @@ ___
 
 
 ___
-- Task 3: Create a new text file named “TestFile.txt” under C:\Maximo\PowerShell\Workshop1\%USERNAME%
+- Task 3: Create a new text file named “TestFile.txt” under C:\adria\PowerShell\Workshop1\%USERNAME%
+
+
+![image](https://user-images.githubusercontent.com/98842240/160933553-df7f6a07-1f36-42f7-8d72-7a3b720f9271.png)
+
+
+![image](https://user-images.githubusercontent.com/98842240/160933955-fdd20a92-573f-46d2-9168-c01e68ac697a.png)
+
+
 
 
 
