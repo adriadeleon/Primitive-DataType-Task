@@ -66,9 +66,74 @@ ___
 ![image](https://user-images.githubusercontent.com/98842240/160933955-fdd20a92-573f-46d2-9168-c01e68ac697a.png)
 
 
+![image](https://user-images.githubusercontent.com/98842240/161072133-52137e55-6e5b-45c3-a3e8-6f6a8f8af62d.png)
 
 
+![image](https://user-images.githubusercontent.com/98842240/161072204-974c11f4-a3d0-427d-9818-fabaa5ab5745.png)
 
+
+![image](https://user-images.githubusercontent.com/98842240/161072306-a41f8482-7a8e-4da4-98cf-bb34ecbd273a.png)
+
+
+___
+- Task 4: Populate the text file you created in task 3 with all three datatypes we’ve covered: “Boolean”, “String” and “Int”.
+
+
+![image](https://user-images.githubusercontent.com/98842240/161072505-0d878e42-822e-4c6d-8ba4-34979c50b712.png)
+
+
+___
+- Task 5: Read from the text file and use “Get-Member” to find the datatype returned.
+
+
+![image](https://user-images.githubusercontent.com/98842240/161072952-e78dadb9-15cd-4d7c-a902-30e1c638d23f.png)
+
+
+___
+-Task 6: Overwrite all data within the text file that you created in task 3.
+
+![image](https://user-images.githubusercontent.com/98842240/161073117-e53ddd82-b72e-461b-8bab-28ddf60d7b49.png)
+
+
+___
+- Task 7: Format the data returned by a cmdlet into a list.
+
+
+![image](https://user-images.githubusercontent.com/98842240/161073738-feafccfa-636b-493b-be99-846ec70ded15.png)
+
+
+___
+- Task 8: Pipe “Get-Command” into “Out-GridView".
+
+
+![image](https://user-images.githubusercontent.com/98842240/161073950-c02b4e0e-a2de-4d5e-b409-71fecaf326cc.png)
+
+
+___ 
+- Task 9: Pipe the 5 cmdlets you discovered in task 1 into “Out.GridView”
+
+
+![image](https://user-images.githubusercontent.com/98842240/161074175-b06ba1f3-0501-4bb5-9ef1-4bb08fe0376d.png)
+
+
+![image](https://user-images.githubusercontent.com/98842240/161074377-e746989d-04a8-41d9-ab49-a58a9c463544.png)
+
+
+![image](https://user-images.githubusercontent.com/98842240/161074478-a4ba0765-e113-48d5-956d-22ac4c9a087b.png)
+
+
+![image](https://user-images.githubusercontent.com/98842240/161074597-ebac8394-0d12-44f2-8b5e-eb7f6689c1d2.png)
+
+
+![image](https://user-images.githubusercontent.com/98842240/161074678-7fb99f74-9946-4d43-bfe3-4d1cd76a2e85.png)
+
+
+___
+- Task 10: Find the official PowerShell documentation library from Microsoft.
+
+Aquí está la ayuda de PowerShell de Microsoft.
+https://docs.microsoft.com/es-es/powershell/scripting/learn/ps101/02-help-system?view=powershell-7.2
+___
 
 
 
